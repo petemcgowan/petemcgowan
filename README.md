@@ -29,8 +29,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&style=flat-square" alt="Google Cloud" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&style=flat-square" alt="Docker" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&style=flat-square" alt="Oracle" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&style=flat-square" alt="Kotlin" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=flat-square" alt="Python" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=flat-square" alt="C++" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white&style=flat-square" alt="Swift" style="max-width: 100%;">
